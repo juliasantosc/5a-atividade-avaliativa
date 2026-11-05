@@ -1,4 +1,4 @@
-# NewsFlow — BDD com Gherkin e Cucumber.js
+# NewsFlow BDD com Gherkin e Cucumber.js
 
 Quatro histórias de usuário do NewsFlow (plataforma de newsletters da Vértice), escritas em Gherkin e automatizadas com Cucumber.js sobre um domínio em memória.
 
