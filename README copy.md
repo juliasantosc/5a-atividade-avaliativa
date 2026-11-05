@@ -37,7 +37,6 @@ Requer Node.js 18 ou superior.
 | US03 | RN03, RN04 | feliz, segmento vazio | antecedência 60/16/15/14/0 min · reagendamentos 0/1/2 · cancelamento 6/5/4 min |
 | US04 | RN05, RN04 | e-mail único, transacional | 0 / 1 / 2 newsletters já recebidas |
 
-Tags disponíveis: `@US01`…`@US04`, `@feliz`, `@excecao`, `@alternativo`, `@limite`. Exemplo: `npx cucumber-js --tags "@US03 and @limite"`.
 
 ## Fora de escopo
 
