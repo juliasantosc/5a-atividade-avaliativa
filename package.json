@@ -1,0 +1,17 @@
+{
+  "name": "newsflow-bdd",
+  "version": "1.0.0",
+  "description": "BDD do NewsFlow com Gherkin + Cucumber.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "cucumber-js",
+    "test:dry": "cucumber-js --dry-run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.3.0"
+  }
+}
