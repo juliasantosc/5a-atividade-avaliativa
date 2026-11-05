@@ -8,8 +8,8 @@ Quatro histórias de usuário do NewsFlow (plataforma de newsletters da Vértice
 
 ```bash
 npm install
-npm test            # executa a suíte e gera relatorios/cucumber-report.html
-npm run test:dry    # valida sintaxe e confere se todo passo tem implementação
+npm test           
+npm run test:dry   
 ```
 
 Requer Node.js 18 ou superior.
